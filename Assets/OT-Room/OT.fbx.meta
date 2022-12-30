@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: a5a17d5b86a343c4da250d6de978ddee
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OP Basket
+    second: {fileID: 2100000, guid: 7f7b8b03cff1f504a99fbc08e99e50a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OP Display
+    second: {fileID: 2100000, guid: 1e8c5eac422557c43a0733f5aa2b17f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OP Glass
+    second: {fileID: 2100000, guid: 3ba17b20f992d624b8446a43fe5880c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OP Metal
+    second: {fileID: 2100000, guid: 491570e868b31ce43884c41db07fb057, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OP Plastic
+    second: {fileID: 2100000, guid: 7032da9b007ec4f48b5f7c9d95eebb19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OP Rubber
+    second: {fileID: 2100000, guid: 8e5df7b2a8ce164419d0c2e638706f8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OP Wheel
+    second: {fileID: 2100000, guid: 0547b4e55dc4ece4c8116bb071655e7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OT Bed
+    second: {fileID: 2100000, guid: cff62b9b22672f448a67f7f0a107ee92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OT Buttons
+    second: {fileID: 2100000, guid: 4184c5122114a7b4283e0d2bc55a583b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OT Ceiling
+    second: {fileID: 2100000, guid: b1d79efe7756cf041aa933e719bd8c27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OT Cover
+    second: {fileID: 2100000, guid: bd2c9d6e1d2c64c4dbba632b002363d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OT Display
+    second: {fileID: 2100000, guid: ff33a72b990f23240a15e2400e0325e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OT Display A
+    second: {fileID: 2100000, guid: 8c3ea16d6a3129645a23003404db6c2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OT Display B
+    second: {fileID: 2100000, guid: 45ae4c07fd5b2354096822db8b4734fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OT Floor
+    second: {fileID: 2100000, guid: 1b40d18513f86274ba070ab5cac08c39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OT Glass
+    second: {fileID: 2100000, guid: 9e35a3f30b5c3004289d4b7a4d4a945b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OT Handle
+    second: {fileID: 2100000, guid: e00ad633bb8cf484da25ec0bc82e6bdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OT Light
+    second: {fileID: 2100000, guid: 5449baa9ca11e4642a1d0c38bb3b3452, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OT Metal
+    second: {fileID: 2100000, guid: 77f5207dcdaa290458e4a49d9e607ee3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OT Metal A
+    second: {fileID: 2100000, guid: 2d7468ba6ebd6f8498f5c20304d7c178, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OT Metal B
+    second: {fileID: 2100000, guid: 8e2f943f2cdb93e439d829963ac2d850, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OT Plastic
+    second: {fileID: 2100000, guid: 00f07becb2335d54c9aed46352c53b42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OT Screen
+    second: {fileID: 2100000, guid: ca2d256b47fbf1749bb78688985a741b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OT Shelf
+    second: {fileID: 2100000, guid: 3407f1b5decbdc44f9620fce93f1fd4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OT Wall
+    second: {fileID: 2100000, guid: c6099af24d3cd594c9817c838676f708, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OT Window
+    second: {fileID: 2100000, guid: 3c0cf09077086a94583acce756e617b3, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OT Anesthesia Machine Diff
+    second: {fileID: 2800000, guid: 9b8bf5c30d688864d916a1d7833c5983, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OT Cart Diff
+    second: {fileID: 2800000, guid: a29a0cb725a543a41a2a390f9ef30dcb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OT Ceiling Floor Diff
+    second: {fileID: 2800000, guid: 0dbe599775f742944985af42e59363a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OT Ceiling Lights Diff
+    second: {fileID: 2800000, guid: b5a366bee189027448260e45dd3bcbad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OT Light Diff
+    second: {fileID: 2800000, guid: 9b48b77ea84ce44418a778b27aec328d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OT Monitor Diff
+    second: {fileID: 2800000, guid: ccd827d36af45d549bc3c9da22fb57af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OT Monitor Display A
+    second: {fileID: 2800000, guid: c54d6ba92666c124d93a8b69823cfc01, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OT Monitor Display B
+    second: {fileID: 2800000, guid: c7f4186ab273ee343824214c54ce7f07, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OT Operation Table A Diff
+    second: {fileID: 2800000, guid: e0e2ff42113d36d419b0d22c0d7a013d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OT Operation Table B
+    second: {fileID: 2800000, guid: 6277799729335e445b8e78aac7b68bfb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OT Oxygen Concentrator Diff
+    second: {fileID: 2800000, guid: ca8580e0a39d4914cbd791539ac0070e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OT Scanner Diff
+    second: {fileID: 2800000, guid: c4c99514427e0144db9c463e2da56e41, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OT Shelf Diff
+    second: {fileID: 2800000, guid: ff86a16980b4fd74da5164b19452043a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OT Ultrasound Diff
+    second: {fileID: 2800000, guid: 352ca34306aad344e87bdb418385ebb4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OT Ultrasound Display Diff
+    second: {fileID: 2800000, guid: e3ecd9cf281629f4c89c5f914658d991, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OT Wall Back Diff
+    second: {fileID: 2800000, guid: 7e6d39c09482590499c5cb0029723431, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OT Wall Front Diff
+    second: {fileID: 2800000, guid: 64175fdcbc14b82488a24ee72e0fe649, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OT Wall Right Diff
+    second: {fileID: 2800000, guid: e811bbde0b4fac646bec51b8b881d85f, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
